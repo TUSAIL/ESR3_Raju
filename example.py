@@ -6,5 +6,5 @@ def test_add(): # Special name!
     assert add('space', 'ship') == 'spaceship'
 
 def subtract(a, b):
-    return a + b  
+    return a - b  
 
