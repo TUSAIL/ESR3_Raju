@@ -7,3 +7,6 @@ def celsius_to_celsius(kelvin):
     'better documentation"
     "even better documentation"
     return kelvin - 273.15
+
+def returnWhatComesIn(input):
+    return input
